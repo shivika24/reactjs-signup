@@ -108,4 +108,5 @@ div.form-group button {
 
 .errors{
     color: red;
+    float:left;
 }
